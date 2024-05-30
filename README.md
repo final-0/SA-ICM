@@ -89,7 +89,6 @@ image ---- input
 
 ###  object detection ([yolov5](https://github.com/ultralytics/yolov5))
 
-We cite the yolov5 implementation from [ultralytics](https://github.com/ultralytics).
 Download the [model weights](https://drive.google.com/drive/folders/1UZ4VyDeS4XyvPMbWQzqz4p3cQq3lzOKU?usp=drive_link) trained with the compressed images.
 You can obtain "yolov5_78.pt" and "yolov5_93.pt" from this link. 
 These weights can be used by placing them in the "param" folder.<br>
@@ -109,3 +108,6 @@ python3 yolov5/detect.py --weights param/yolov5_93.pt --source image/output_icm_
 ```
 
 Detection results will be saved in "yolov5/runs/detect/".
+<br>
+<br>
+* We cite the yolov5 implementation from [ultralytics](https://github.com/ultralytics).
