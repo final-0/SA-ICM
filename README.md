@@ -108,7 +108,4 @@ python3 yolov5/detect.py --weights param/yolov5_78.pt --source image/output_icm_
 python3 yolov5/detect.py --weights param/yolov5_93.pt --source image/output_icm_93
 ```
 
-
-<br>
-
-🚧
+Detection results will be saved in "yolov5/run/detect/".
