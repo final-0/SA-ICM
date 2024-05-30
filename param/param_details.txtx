@@ -1,0 +1,2 @@
+icm_78.pth : alpha=0.78, lambda=0.05
+icm_93.pth : alpha=0.93, lambda=0.05
