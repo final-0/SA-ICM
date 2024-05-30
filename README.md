@@ -55,8 +55,9 @@ For testing only, a GPU with about 11GB of memory is sufficient. (e.g. 1080ti, 2
 
 ###  image compression
 
-Download [model checkpoints](https://drive.google.com/drive/folders/1J7rsrEFn20zLginAcyDzY5DdCMbYamgC?usp=drive_link). You can obtain "icm_78.pth.tar" and "icm_93.pth.tar" from this link. 
-These checkpoints can be used by placing them in the "param" folder.<br>
+Download [model weights](https://drive.google.com/drive/folders/1J7rsrEFn20zLginAcyDzY5DdCMbYamgC?usp=drive_link). 
+You can obtain "icm_78.pth.tar" and "icm_93.pth.tar" from this link. 
+These weights can be used by placing them in the "param" folder.<br>
 ``` 
 param ---- param_details.txt
        |-- icm_78.pth.tar
@@ -83,8 +84,18 @@ python3 coding_m.py --checkpoint param/icm_78.pth.tar --input image/input --real
 python3 coding_m.py --checkpoint param/icm_93.pth.tar --input image/input --real
 ```
 
-###  object detection
+###  object detection ([yolov5](https://github.com/ultralytics/yolov5))
 
-
+Download [model weights](https://drive.google.com/drive/folders/1UZ4VyDeS4XyvPMbWQzqz4p3cQq3lzOKU?usp=drive_link).
+You can obtain "yolov5_78.pt" and "yolov5_93.pt" from this link. 
+These weights can be used by placing them in the "param" folder.<br>
+``` 
+param ---- param_details.txt
+       |-- icm_78.pth.tar
+       |-- icm_93.pth.tar
+       |-- yolov5_78.pt
+       |-- yolov5_93.pt
+```
+<br>
 
 🚧
