@@ -85,6 +85,11 @@ python3 coding_m.py --checkpoint param/icm_93.pth.tar --input image/input --real
 ```
 
 Compressed images will be saved in the folder "output_icm_78" or "output_icm_93".
+``` 
+image ---- input
+       |-- output_icm_78
+       |-- output_icm_93 
+```
 
 ###  object detection ([yolov5](https://github.com/ultralytics/yolov5))
 
