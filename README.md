@@ -1,6 +1,7 @@
 <div align="center">
 
-### Image Coding for Machines with Edge Information Learning Using Segment Anything
+### Image Coding for Machines with Edge Information Learning <br>
+### Using Segment Anything
 ### [SA-ICM](https://arxiv.org/abs/2403.04173)
 </div>
 
