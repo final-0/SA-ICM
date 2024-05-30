@@ -84,6 +84,8 @@ python3 coding_m.py --checkpoint param/icm_78.pth.tar --input image/input --real
 python3 coding_m.py --checkpoint param/icm_93.pth.tar --input image/input --real
 ```
 
+Compressed images will be saved in the folder "output_icm_78" or "output_icm_93".
+
 ###  object detection ([yolov5](https://github.com/ultralytics/yolov5))
 
 Download [model weights](https://drive.google.com/drive/folders/1UZ4VyDeS4XyvPMbWQzqz4p3cQq3lzOKU?usp=drive_link).
