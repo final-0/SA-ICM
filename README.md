@@ -39,5 +39,26 @@ pip3 install -r requirements.txt
 
 ---
 
+<div align="center">
+
+### Recommended Specs
+</div>
+
+For testing only, a GPU with about 11GB of memory is sufficient. (e.g. 1080ti, 2080ti)
+
+---
+
+<div align="center">
+  
+### Usage
+</div>
+
+Download [model checkpoints]. You can obtain "icm_78.pth.tar" and "icm_93.pth.tar" from this link. 
+These checkpoints can be used by placing them in the "param" folder.<br>
+``` 
+param ---- param_details.txt
+       |-- icm_78.pth.tar
+       |-- icm_93.pth.tar 
+```
 
 🚧
