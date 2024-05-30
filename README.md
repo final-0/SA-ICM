@@ -110,4 +110,4 @@ python3 yolov5/detect.py --weights param/yolov5_93.pt --source image/output_icm_
 Detection results will be saved in "yolov5/runs/detect/".
 <br>
 <br>
-* We cite the yolov5 implementation from [ultralytics](https://github.com/ultralytics).
+\* We cite the yolov5 implementation from [ultralytics](https://github.com/ultralytics).
