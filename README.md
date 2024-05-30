@@ -111,3 +111,6 @@ Detection results will be saved in "yolov5/runs/detect/".
 <br>
 <br>
 \* We cite the yolov5 implementation from [ultralytics](https://github.com/ultralytics).
+
+---
+---
