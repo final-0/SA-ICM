@@ -60,20 +60,23 @@ param ---- param_details.txt
        |-- icm_78.pth.tar
        |-- icm_93.pth.tar 
 ```
+
 If you want to compress images for "Machines" with , run the following command :
 ``` 
 python3 coding_m.py --checkpoint param/icm_78.pth.tar --input image/input
 ```
-or
+&eqsm; or
 ``` 
 python3 coding_m.py --checkpoint param/icm_93.pth.tar --input image/input
 ```
+
 Add “--real” to the command to obtain a bit-stream:
 ``` 
 python3 coding_m.py --checkpoint param/icm_78.pth.tar --input image/input --real
 ```
-or
+&eqsm; or
 ```
 python3 coding_m.py --checkpoint param/icm_93.pth.tar --input image/input --real
 ```
+
 🚧
