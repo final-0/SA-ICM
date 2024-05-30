@@ -25,7 +25,7 @@ This is the official implementation of the following paper.<br>
 
 1. Clone this repository from GitHub.
 ```
-git clone https://github.com/final-0/ICM-v1.git
+git clone https://github.com/final-0/SA-ICM.git
 ```
 2. Change the current directory to the "SA-ICM" folder.
 ```
