@@ -5,7 +5,7 @@
 
 ---
 
-### [SA-ICM](https://arxiv.org/abs/2403.04173)
+### [SA-ICM](https://arxiv.org/abs/2403.04173) (IEEE ICIP 2024)
 </div>
 
 ---
