@@ -117,4 +117,14 @@ Detection results will be saved in "yolov5/runs/detect/".
 \* We cite the yolov5 implementation from [ultralytics](https://github.com/ultralytics).
 
 ---
+
+<div align="center">
+
+### Cooperator
+</div>
+
+[Kein Yamada](https://github.com/nykie738)
+[Taiju Watanabe](https://github.com/rook86)
+
+---
 ---
