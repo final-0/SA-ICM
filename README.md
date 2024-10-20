@@ -123,8 +123,7 @@ Detection results will be saved in "yolov5/runs/detect/".
 ### Cooperator
 </div>
 
-[Kein Yamada](https://github.com/nykie738)
-[Taiju Watanabe](https://github.com/rook86)
+[Kein Yamada](https://github.com/nykie738) | [Taiju Watanabe](https://github.com/rook86)
 
 ---
 ---
