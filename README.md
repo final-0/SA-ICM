@@ -13,11 +13,11 @@
 
 This is the official implementation of the following paper.<br>
 <br>
-・Image Coding for Machines with Edge Information Learning Using Segment Anything
+・Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
+([IEEE Xplore](https://ieeexplore.ieee.org/document/10647785))
 ([arXiv](https://arxiv.org/abs/2403.04173))<br>
 <br>
-[![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2403.04173)<br>
-
+[![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2403.04173)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.04173-b31b1b.svg)](https://arxiv.org/abs/2403.04173)
 
 ---
