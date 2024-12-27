@@ -24,6 +24,15 @@ This is the official implementation of the following paper.<br>
 
 <div align="center">
   
+### Compression Performance
+[for more details](https://github.com/final-0/SA-ICM-v2)
+
+</div>
+
+---
+
+<div align="center">
+  
 ### Installation
 </div>
 
